@@ -1,0 +1,8 @@
+question,stimulus,answer1,answer2,answer3,answer4
+What is the following operator?,%,modulus,addition,subtraction,concatenation
+What type of variable is stored inside c0?,{"a": 0},dictionary,set,int,float
+what value is stored in c1 when the following code is executed?,c1 = (2 * 3) - 3 * (10 - 9),3,-12,12,10
+what variable type is stored inside c2 when the code below is executed?,c2 = int((str(3) + str(3**3**3))[::3]),int,list,str,float
+what value is stored inside c2 when the code below is executed?,c2 = int((str(3) + str(3**3**3))[::3]),32988,3,376,25597
+When executed c3 should hold the int value of 88. What operators should be replaced by the OP characters to receive this value?,32988 OP 10000 OP 1000 OP 100,%,/,*,+
+What value is stored in c4 when the code is executed?,c4 = int(str((3*3%1000)+29234)[::-1]),87992,29978,5787,5282
